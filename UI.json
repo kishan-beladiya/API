@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Janmashtami",
+    "API": "https://www.phoca.cz"
+  },
+  {
+    "id": 2,
+    "name": "Daily Story/Status Video",
+    "API": "https://www.phoca.cz"
+  }
+]
