@@ -1,1 +1,1 @@
-This all API is for my personal projects.
+This all API is for my personal projects only.
