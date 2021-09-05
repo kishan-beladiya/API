@@ -2,11 +2,11 @@
     {
         "id":1,
         "name":"Video Story",
-        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hindi_video_story.json?token=AOJDIQFYEAEKWVMT2NOWPHLBGPNEW"
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hindi_video_story.json"
     },
     {
         "id":1,
         "name":"Text Story",
-        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/english_text_story.json?token=AOJDIQFAOYQALEA2RISFFQ3BGSC6K"
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/english_text_story.json"
     }
 ]
