@@ -1,17 +1,14 @@
 [
     {
         "id":1,
+        "type":"video",
         "name":"Video Story",
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hindi_video_story.json"
     },
     {
         "id":2,
+        "type":"text",
         "name":"Text Story",
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/english_text_story.json"
     },
-    {
-        "id":3,
-        "name":"Text Story",
-        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/english_text_story.json"
-    }
 ]
