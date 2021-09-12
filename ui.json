@@ -10,5 +10,5 @@
         "type":"text",
         "name":"Text Story",
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/english_text_story.json"
-    },
+    }
 ]
