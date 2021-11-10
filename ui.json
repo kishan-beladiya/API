@@ -14,7 +14,7 @@
     {
         "id":3,
         "type":"text",
-        "name":"Romantic Status",
+        "name":"Romantic",
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/romantic_status.json"
     }
 ]
