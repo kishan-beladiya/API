@@ -1,10 +1,10 @@
 [
     {
         "id":1,
-        "type":"video",
-        "name":"Video Status",
+        "type":"text",
+        "name":"Cool Status",
         "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/video.jpg",
-        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hindi_video_story.json"
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/cool_status.json"
     },
     {
         "id":2,
@@ -19,5 +19,19 @@
         "name":"Romantic",
         "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/romantic.jpg",
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/romantic_status.json"
+    },
+    {
+        "id":4,
+        "type":"text",
+        "name":"Insta Boys bio",
+        "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/boys_bio.jpg",
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/insta_boy's_bio.json"
+    },
+    {
+        "id":5,
+        "type":"text",
+        "name":"Insta Girls bio",
+        "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/girls_bio.jpg",
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/insta_girl's_bio.json"
     }
 ]
