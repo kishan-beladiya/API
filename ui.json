@@ -7,6 +7,13 @@
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/daily_status.json"
     },
     {
+        "id":6,
+        "type":"daily",
+        "name":"New Year Special",
+        "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/newyear.jpg",
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/special.json"
+    },
+    {
         "id":1,
         "type":"text",
         "name":"Cool Status",
