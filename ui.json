@@ -7,6 +7,13 @@
         "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/caption.json"
     },
     {
+        "id":6,
+        "type":"text",
+        "name":"Hash Tag",
+        "image":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hash_tag_image.png",
+        "link":"https://raw.githubusercontent.com/kishan-beladiya/API/main/hash_tag.json"
+    },
+    {
         "id":1,
         "type":"text",
         "name":"Cool Status",
