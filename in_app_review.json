@@ -1,5 +1,5 @@
 {
         "minOpenLimit" : 3,
-        "maxOpenLimit" : 35,
+        "maxOpenLimit" : 13,
         "delayInAskingReview" : 1
 }
